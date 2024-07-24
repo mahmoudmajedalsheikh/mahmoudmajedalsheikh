@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Majed Alshikh</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Majed AL Sheikh
+</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 - 🌱 I’m currently learning **React NextJS**
