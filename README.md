@@ -8,6 +8,6 @@
 
 - 💬 Ask me about **React NextJS**
 
-- 📫 How to reach me **mahmoudmajed404@gmail.com**
+- 📫 How to reach me **mahmoudmajed312@gmail.com**
 
 
